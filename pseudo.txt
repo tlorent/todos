@@ -1,0 +1,6 @@
+Steps
+1. User can cross off todos
+2. User can delete todos
+3. User can add todos
+4. User can delete newly made todos
+5. User can toggle the 'add new todo' input
